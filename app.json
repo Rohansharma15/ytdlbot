@@ -10,25 +10,25 @@
   "env": {
     "TOKEN": {
       "description": "Bot token",
-      "value": "token"
+      "value": "5829460112:AAGWaONbfNO9RIdtAY9b6wyXHdH3xDIt6Zs"
     },
     "APP_ID": {
       "description": "APP ID",
-      "value": "12345"
+      "value": "24512494"
     },
     "APP_HASH": {
       "description": "APP HASH",
-      "value": "12345abc"
+      "value": "965ff313790ad8d1971a8209c8dfcf85"
     },
     "OWNER": {
       "description": "Your telegram username",
-      "value": "username",
+      "value": "ase26",
       "required": false
     }
   },
   "formation": {
     "worker": {
-      "quantity": 1,
+      "quantity": 100,
       "size": "free"
     }
   },
